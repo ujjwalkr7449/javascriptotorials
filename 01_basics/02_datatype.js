@@ -4,7 +4,7 @@ console.log(3+3)//code readibility should be high
 console.log("hitesh") 
 /*
 number=>2**53
-bigint
+bigint =>it is use criptocarrence
 string=>""/''
 boolean=>true/false
 null=>standalone value 
